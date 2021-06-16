@@ -19,6 +19,9 @@ jobs:
       - name: Linting
         run: yarn lint
 
+      - name: Next Linting
+        run: yarn next-lint
+
       - name: Test
         run: yarn test
 
