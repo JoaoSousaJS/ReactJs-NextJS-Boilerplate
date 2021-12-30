@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
-    "@babel/preset-typescript": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.5",
     "@storybook/addon-essentials": "^6.4.9",
     "@storybook/react": "^6.4.7",
     "@testing-library/jest-dom": "^5.15.0",
@@ -52,7 +52,7 @@
     "husky": "^7.0.4",
     "jest": "^27.4.4",
     "jest-styled-components": "^7.0.6",
-    "lint-staged": "^12.0.3",
+    "lint-staged": "^12.1.4",
     "plop": "^3.0.5",
     "prettier": "^2.4.1",
     "react-is": "^17.0.2",
